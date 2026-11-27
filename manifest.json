@@ -1,78 +1,24 @@
 {
-  "version": 1,
-  "updated_at": "2026-11-24",
+  "version": 2,
+  "updated_at": "2026-11-27",
   "files": [
-    {
-    "chapter_01.json",
-      "version": 1
-    },
-    {
-    "chapter_02.json",
-      "version": 1
-    },
-    {
-    "chapter_03.json",
-      "version": 1
-    },
-    {
-    "chapter_04.json",
-      "version": 1
-    },
-    {
-    "chapter_05.json",
-      "version": 1
-    },
-    {
-    "chapter_06.json",
-      "version": 1
-    },
-    {
-    "chapter_07.json",
-      "version": 1
-    },
-    {
-    "chapter_08.json",
-      "version": 1
-    },
-    {
-    "chapter_09.json",
-      "version": 1
-    },
-    {
-    "chapter_10.json",
-      "version": 1
-    },
-    {
-    "chapter_11.json",
-      "version": 1
-    },
-    {
-    "chapter_12.json",
-      "version": 1
-    },
-    {
-    "chapter_13.json",
-      "version": 1
-    },
-    {
-    "chapter_14.json",
-      "version": 1
-    },
-    {
-    "chapter_15.json",
-      "version": 1
-    },
-    {
-    "chapter_16.json",
-      "version": 1
-    },
-    {
-    "chapter_17.json",
-      "version": 1
-    },
-    {
-    "chapter_18.json"
-      "version": 1
-    }
+    { "name": "chapter_01.json", "version": 1 },
+    { "name": "chapter_02.json", "version": 1 },
+    { "name": "chapter_03.json", "version": 1 },
+    { "name": "chapter_04.json", "version": 1 },
+    { "name": "chapter_05.json", "version": 1 },
+    { "name": "chapter_06.json", "version": 1 },
+    { "name": "chapter_07.json", "version": 1 },
+    { "name": "chapter_08.json", "version": 1 },
+    { "name": "chapter_09.json", "version": 1 },
+    { "name": "chapter_10.json", "version": 1 },
+    { "name": "chapter_11.json", "version": 1 },
+    { "name": "chapter_12.json", "version": 1 },
+    { "name": "chapter_13.json", "version": 1 },
+    { "name": "chapter_14.json", "version": 1 },
+    { "name": "chapter_15.json", "version": 1 },
+    { "name": "chapter_16.json", "version": 1 },
+    { "name": "chapter_17.json", "version": 1 },
+    { "name": "chapter_18.json", "version": 1 }
   ]
 }
